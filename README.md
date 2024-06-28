@@ -232,7 +232,7 @@ Note that, you should change the two parts to evaluate the dataset you want. (**
 * SEED-IMG: `SEEDPipeline`
 * HallusionBench: `HallusionPipeline`
 
-> GPT-4 Aid Evalution for AI2D, MM-Vet, SEED-IMG
+> GPT-4 Aid Evaluation for AI2D, MM-Vet, SEED-IMG
 
 This code will be soon public!
 
